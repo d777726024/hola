@@ -1,0 +1,7 @@
+7/7
+definir a  como entero
+si  a =0  entonces
+escribir "nulo"
+sino
+escribir"no entero"
+finsi
